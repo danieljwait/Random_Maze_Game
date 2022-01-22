@@ -3,7 +3,7 @@ A maze game that randomly generates mazes using Prim's algorithm in Python. The 
 
 ## Requirements
 - A display at least 900x900 (the maze window is a fixed size)
-- The Python packages listed in [`requirements.txt`](./requirements.txt)
+- The Python packages listed in `requirements.txt`
 
 ## Compatibility
 The program has only been tested on the following:
